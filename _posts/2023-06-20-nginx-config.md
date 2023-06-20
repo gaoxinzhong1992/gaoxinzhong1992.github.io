@@ -1,8 +1,8 @@
 ---
-title: 关于
+title: 配置
 author: 高新忠
 date: 2023-06-20
-category: 个人
+category: nginx
 layout: post
 ---
 
