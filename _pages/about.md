@@ -1,8 +1,8 @@
 ---
-title: About
-author: Tao He
-date: 2022-02-04
-category: Jekyll
+title: 关于
+author: 高新忠
+date: 2023-06-20
+category: 个人
 layout: post
 ---
 
